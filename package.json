@@ -1,0 +1,22 @@
+{
+  "name": "be-trackeling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didihottest/be-trackeling.git"
+  },
+  "author": "alif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didihottest/be-trackeling/issues"
+  },
+  "homepage": "https://github.com/didihottest/be-trackeling#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
